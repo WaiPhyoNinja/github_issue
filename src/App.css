@@ -218,3 +218,16 @@ svg {
   padding-top: 32px;
   border-bottom: 1px solid #F3F4F6;
 }
+
+nav {
+  background: #24292f;
+  padding: 20px 60px;
+}
+
+nav a {
+  color: white;
+}
+
+nav a:hover {
+  color: lightgray;
+}
